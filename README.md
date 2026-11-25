@@ -1,109 +1,150 @@
-# 🚀 THEOPHILUS AKOWUAH | Front-End Developer
+# 🚀 THEOPHILUS AKOWUAH
+### Front-End Engineer | React | Next.js | TypeScript
 
-Hi, I'm Theophilus Akowuah, a passionate Front-End Developer focused on building modern, user-friendly, and high-performance web applications.
+Hi! I'm **Theophilus Akowuah**, a Front-End Engineer passionate about building modern, responsive, and scalable web applications.
 
-I specialize in **React, Next.js, JavaScript, and UI/UX**, with experience developing responsive interfaces, integrating APIs, and delivering scalable solutions for real-world applications.
+With **3+ years of experience**, I specialize in developing intuitive user interfaces, integrating REST APIs, and building reliable web applications using React, Next.js, JavaScript, and TypeScript.
 
-I enjoy solving complex problems, writing clean and maintainable code, and continuously improving my development skills.
+I enjoy transforming complex requirements into practical software solutions, writing clean and maintainable code, and continuously improving my engineering skills.
+
+---
 
 ## 👨‍💻 About Me
 
-* 💻 3+ years of experience in front-end development.
-* ⚛️ Experienced in building web applications with React and Next.js.
-* 🎨 Passionate about clean UI/UX and responsive design.
-* 🚀 Front-End Lead with experience collaborating on and delivering projects.
-* 🏆 Back-to-back hackathon winner in 2022 and 2023.
-* 🌱 Currently expanding my backend development skills with Spring Boot.
-* 🧠 Actively solving LeetCode problems to strengthen my algorithms and problem-solving abilities.
+- 💻 3+ years of experience in front-end development.
+- ⚛️ Specializing in React, Next.js, JavaScript, and TypeScript.
+- 🎨 Passionate about UI/UX, responsive design, and user experience.
+- 🚀 Experienced in leading front-end development and collaborating with cross-functional teams.
+- 🏢 Experience building enterprise applications and business management systems.
+- 🏆 Back-to-back hackathon champion in 2022 and 2023.
+- 🌱 Currently expanding my backend development skills with Java and Spring Boot.
+- 🧠 Practising data structures and algorithms through LeetCode.
 
 ## 💼 Professional Experience
 
 ### 🔹 Front-End Developer | 360Botech Development
 
-* Developed and maintained dynamic web applications using React, Next.js, and JavaScript.
-* Built responsive and interactive user interfaces focused on usability and performance.
-* Integrated REST APIs to connect front-end applications with backend services.
-* Collaborated with development teams to deliver functional and scalable solutions.
+- Developed and maintained web applications using React, Next.js, and JavaScript.
+- Built responsive and interactive interfaces with a focus on usability and performance.
+- Integrated REST APIs to connect frontend applications with backend services.
+- Collaborated with development teams to deliver functional and maintainable solutions.
 
 ### 🔹 Front-End Developer | SuperTech Limited
 
-* Designed and implemented responsive user interfaces for enterprise applications.
-* Developed solutions using modern front-end technologies and efficient coding practices.
-* Collaborated with backend developers and stakeholders to deliver customized applications.
-* Contributed to projects involving enterprise systems, biometric management, and operational workflows.
+- Designed and implemented user interfaces for enterprise and business management applications.
+- Developed frontend features using modern web technologies and reusable components.
+- Integrated backend services and REST APIs to support application workflows.
+- Collaborated with backend developers and stakeholders to translate business requirements into functional solutions.
+- Contributed to projects involving biometric management, employee self-service, attendance management, and ERP integrations.
 
 ## 🏆 Achievements & Leadership
 
-* 🥇 **UENR Hackathon Champion** — Winner in 2022 and 2023.
-* 👨‍💻 **Front-End Lead** — Led front-end development and collaborated with teams to deliver multiple projects.
-* 🤝 **Skills Enhancement 1st Deputy & Welfare Deputy** — Contributed to leadership, mentorship, and team development.
+- 🥇 **UENR Hackathon Champion** — Winner in 2022 and 2023.
+- 👨‍💻 **Front-End Lead** — Led frontend development activities and collaborated with teams to deliver software projects.
+- 🤝 **Skills Enhancement 1st Deputy & Welfare Deputy** — Contributed to team coordination, mentorship, and member development.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Front-End
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass" />
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,postgresql,mysql" />
 </p>
 
-### Tools & Practices
+### Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
-* REST API Integration
-* Responsive Web Design
-* UI/UX Development
-* Configuration Management
-* Agile Development
+### Other Skills
+
+- REST API Integration
+- Responsive Web Design
+- Component-Based Architecture
+- UI/UX Development
+- State Management
+- Authentication & Role-Based Access Control
+- Enterprise Application Development
+- Agile Development & Team Collaboration
 
 ## 🚀 Featured Projects
 
-### ✈️ AeroPrep
+### ✈️ AeroPrep — Aviation Learning Platform
 
-An aviation exam preparation platform designed to help students prepare for aviation certification exams.
+A private aviation examination and course preparation platform designed to help students prepare for aviation certification examinations.
+
+**Key Areas:**
+- Certification and subscription management.
+- Examination practice and assessment.
+- Course, topic, and lesson management.
+- Student dashboards and learning progress.
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS, REST APIs.
 
-### 🕒 Biometric Hub
+### 🕒 Biometric Hub — Biometric Management Platform
 
-A biometric time and attendance management platform focused on employee attendance, device management, and biometric enrollment.
+A private biometric management platform designed to support employee administration, biometric enrolment, device management, and attendance operations.
 
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS.
+**Key Areas:**
+- User and device management.
+- Role and permission management.
+- Biometric enrolment.
+- Attendance management and reporting.
 
-## 📈 GitHub Stats
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, REST APIs.
+
+### 🏢 Enterprise Business Applications
+
+Contributed to private enterprise applications involving employee self-service, leave management, operational workflows, and ERP quotation integrations.
+
+**Key Areas:**
+- API integration and data synchronization.
+- Employee and leave management workflows.
+- Enterprise dashboards and data tables.
+- Business process automation interfaces.
+
+**Technologies:** React, Next.js, JavaScript, TypeScript, REST APIs, and project-specific technologies.
+
+*Note: These projects are privately maintained, so their source code is not publicly available.*
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kurtis1955&show_icons=true&theme=tokyonight" alt="Theophilus's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurtis1955&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kurtis1955&show_icons=true&theme=tokyonight&hide_border=true" alt="Theophilus's GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Kurtis1955&theme=tokyonight&hide_border=true" alt="Theophilus's GitHub Contribution Streak" />
 </p>
 
 ## 🌱 Currently Working On
 
-* Enhancing my Spring Boot skills to become a stronger full-stack developer.
-* Solving LeetCode problems to improve algorithmic thinking.
-* Building and improving real-world applications.
-* Exploring modern web development practices and scalable application architecture.
+- Deepening my knowledge of Java and Spring Boot.
+- Improving my problem-solving and algorithmic skills with LeetCode.
+- Building and enhancing real-world web applications.
+- Exploring scalable frontend architecture and software engineering best practices.
+- Improving my understanding of backend development and system integration.
 
 ## 📫 Let's Connect
 
-* 📧 Email: [kurtisbill2001@gmail.com](mailto:kurtisbill2001@gmail.com)
-* 💼 LinkedIn: [Theophilus Akowuah](https://linkedin.com/in/theophilus-akowuah-1b04b026a)
-* 🐙 GitHub: [Theophilus Akowuah](https://github.com/YOUR_GITHUB_USERNAME)
+- 📧 **Email:** [kurtisbill2001@gmail.com](mailto:kurtisbill2001@gmail.com)
+- 💼 **LinkedIn:** [Theophilus Akowuah](https://linkedin.com/in/theophilus-akowuah-1b04b026a)
+- 🐙 **GitHub:** [Kurtis1955](https://github.com/Kurtis1955)
+- 🌐 **Portfolio:** [theophilus-ak.vercel.app](https://theophilus-ak.vercel.app/)
 
 ---
 
 ### 🔍 Open to Opportunities
 
-I'm open to opportunities in **Front-End Development, React, Next.js, and Full-Stack Development**, including remote and on-site roles.
+I'm open to opportunities in **Frontend Engineering, React, Next.js, and Full-Stack Development**, including remote and on-site roles.
 
-If you're interested in collaborating on a project or discussing opportunities, feel free to reach out!
+I'm always interested in collaborating on meaningful projects, solving engineering challenges, and building software that makes a difference.
 
 ⭐ Thanks for visiting my profile!
